@@ -7,7 +7,7 @@ st.set_page_config(
 )
 
 st.title("📝 Project: COVID-19 Vaccine Adverse Event Risk Prediction")
-st.header("Predicting Adverse Events Following Receipt of mRNA Based COVID-19 Vaccines, 2021")
+st.header("Predicting Event Severity Following Receipt of mRNA Based COVID-19 Vaccines, 2021")
 
 st.divider()
 
@@ -18,6 +18,13 @@ st.write(
     COVID-19 vaccines through supervised classification models. Utilizing anonymized 
     patient survey datasets, the goal is to develop risk models that predict the 
     likelihood of vaccine side effects using demographic, health, and prior reaction data as features.
+    """
+)
+
+st.subheader("What is mRNA?")
+st.write(
+    """
+    **mRNA** stands for **messenger RNA** — it’s a type of RNA (ribonucleic acid) that carries the genetic instructions from **DNA** to the **ribosomes**, where proteins are made.  
     """
 )
 
