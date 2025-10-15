@@ -1,4 +1,4 @@
-### COVID-19 Vaccine Adverse Event Risk Predictor
+# COVID-19 Vaccine Adverse Event Risk Predictor
 This project uses machine learning to predict the likelihood of serious adverse events following an mRNA COVID-19 vaccine. It's built on real-world data from the Vaccine Adverse Event Reporting System (VAERS).
 You can try the live, interactive version of the model here:
 (Link to your Streamlit App)
@@ -7,7 +7,8 @@ The main objective was to see if a machine learning model could identify individ
 ## How It Works
 The Data: The model was trained on an anonymized dataset of patient survey information related to vaccine side effects. A key challenge was the imbalanced nature of the data—serious events are far less common than mild ones.
 The Model: A Random Forest Classifier was used for the prediction task. This model is effective at handling complex relationships in the data and is more robust to overfitting than a single decision tree. Special care was taken to handle the class imbalance by weighting the "Serious" cases more heavily during training.
-## The App: A simple web interface was built using Streamlit to make the model interactive. Users can input basic information, and the app provides a real-time risk assessment based on the model's prediction probability.
+## The App:
+A simple web interface was built using Streamlit to make the model interactive. Users can input basic information, and the app provides a real-time risk assessment based on the model's prediction probability.
 ___ 
 ## Local Setup
 If you want to run the app on your own machine:
