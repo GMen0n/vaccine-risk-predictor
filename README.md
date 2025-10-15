@@ -1,7 +1,7 @@
 # COVID-19 Vaccine Adverse Event Risk Predictor
 This project uses machine learning to predict the likelihood of serious adverse events following an mRNA COVID-19 vaccine. It's built on real-world data from the Vaccine Adverse Event Reporting System (VAERS).
 You can try the live, interactive version of the model here:
-(Link to your Streamlit App)
+(https://vaccine-risk-predictor-app.streamlit.app/Problem_Statement)
 ## The Goal
 The main objective was to see if a machine learning model could identify individuals at a higher risk of a serious reaction based on initial data like the vaccine manufacturer and dose number. This project explores the application of data science in a public health context, focusing on creating a transparent and understandable tool.
 ## How It Works
