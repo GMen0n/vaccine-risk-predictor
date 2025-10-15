@@ -51,6 +51,6 @@ st.info(
 )
 
 st.image(
-    "https://github.com/GMen0n/vaccine-risk-predictor/blob/e929b6cdc16253a7429b54fe0a680616580ace12/assets/Confusion%20Matrix.png",
+    "https://raw.githubusercontent.com/GMen0n/vaccine-risk-predictor/refs/heads/main/assets/Confusion%20Matrix.png",
     caption="Placeholder for model evaluation charts like the Confusion Matrix or ROC Curve."
 )
