@@ -25,6 +25,7 @@ pip install -r requirements.txt
 streamlit run app.py
 
 Requirements for Logistic Regression:
+
 <img width="870" height="136" alt="image" src="https://github.com/user-attachments/assets/c17438e0-9f37-433d-a02f-0a5dd86a0ab8" />
 
 Requirements for Random Forest:
