@@ -51,6 +51,6 @@ st.info(
 )
 
 st.image(
-    "https://placehold.co/800x300/E8F0FE/1967D2?text=Model+Performance+Charts",
+    "https://drive.google.com/file/d/13hQSvcvPzInJonl9pqS0796Q7GjXLKkk/view?usp=sharing",
     caption="Placeholder for model evaluation charts like the Confusion Matrix or ROC Curve."
 )
