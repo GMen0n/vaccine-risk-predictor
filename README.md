@@ -24,5 +24,10 @@ pip install -r requirements.txt
 ## Run the Streamlit app:
 streamlit run app.py
 
+Requirements for Logistic Regression:
+<img width="870" height="136" alt="image" src="https://github.com/user-attachments/assets/c17438e0-9f37-433d-a02f-0a5dd86a0ab8" />
+
+Requirements for Random Forest
+<img width="712" height="105" alt="image" src="https://github.com/user-attachments/assets/deed267b-5c81-4916-93d8-858da4ae2746" />
 
 Disclaimer: This is a student project for academic purposes and is not intended for medical advice. The model's predictions are based on statistical patterns and should not be used to make health decisions.
